@@ -1,2 +1,3 @@
-# Yanwen_express_shipping_api
-Yanwen_express_shipping_api
+# Yanwen Express (Shipping API)
+
+https://www.yw56.com.cn/webfile/APIInterface
